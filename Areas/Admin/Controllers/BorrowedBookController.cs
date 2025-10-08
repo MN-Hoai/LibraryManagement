@@ -30,7 +30,7 @@ namespace LibraryManagement.Areas.Admin.Controllers
 			return View();
 		}
 
-        // 📌 Tìm kiếm bạn đọc
+        // Tìm kiếm bạn đọc
         [HttpPost]
         [Route("admin/borrowedbook/searchreader")]
         public async Task<IActionResult> SearchReader(string LibraryCard)
@@ -47,7 +47,7 @@ namespace LibraryManagement.Areas.Admin.Controllers
         }
 
 
-        // 📌 Tìm kiếm sách theo ISBN
+        // Tìm kiếm sách theo ISBN
         [HttpPost]
 		[Route("admin/borrowedbook/searchbook")]
 		public IActionResult SearchBook(string ISBN)
@@ -60,7 +60,7 @@ namespace LibraryManagement.Areas.Admin.Controllers
 			return Json(new { success = true, book });
 		}
 
-        // 📌 Mượn sách (Xử lý nút "Mượn sách")
+        //  Mượn sách
         [HttpPost]
         [Route("admin/borrowedbook/borrowbook")]
         public IActionResult BorrowBook([FromBody] BorrowRequest request)
@@ -117,7 +117,7 @@ namespace LibraryManagement.Areas.Admin.Controllers
         }
 
 
-        // 📌 Xóa sách khỏi danh sách (Xử lý nút "Xóa")
+        // Xóa sách khỏi danh sách
         [HttpPost]
 		[Route("admin/borrowedbook/DeleteBook")]
 		public IActionResult RemoveBook(int BorrowDetailId)
