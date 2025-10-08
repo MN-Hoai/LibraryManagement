@@ -17,7 +17,7 @@ namespace LibraryManagement.Areas.Admin.Controllers
 			_context = context;
 		}
 
-		// 📌 Hiển thị danh sách bạn đọc và form thêm/sửa
+		// Hiển thị danh sách bạn đọc và form thêm/sửa
 		[HttpGet]
 		[Route("admin/reader/accountcreate", Name = "AdminAddReader")]
 		public async Task<IActionResult> AccountCreate(int? id)
@@ -28,7 +28,7 @@ namespace LibraryManagement.Areas.Admin.Controllers
 			return View(new ReaderViewModel { Readers = readers, Reader = reader });
 		}
 
-		// 📌 Xử lý thêm hoặc cập nhật bạn đọc
+		// Xử lý thêm hoặc cập nhật bạn đọc
 		[HttpPost]
 		[Route("admin/reader/accountcreate", Name = "AdminAddReader")]
 	
@@ -63,7 +63,7 @@ namespace LibraryManagement.Areas.Admin.Controllers
 		}
 
 
-		// 📌 Xóa bạn đọc bằng AJAX
+		// Xóa bạn đọc
 		[HttpPost]
 		[Route("admin/reader/delete")]
 		public async Task<IActionResult> Delete([FromBody] DeleteRequest request)
