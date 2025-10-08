@@ -1,0 +1,272 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Bàn làm việc</title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/font-awesome.css" rel="stylesheet" />
+    <link href="Content/style.css" rel="stylesheet" />
+    <link href="Content/jquery.mCustomScrollbar.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <div class="title">
+                    <span>Xin chào,</span>
+                    <strong>Admin</strong>
+                    <a class="btn-collapse" href="#"><i class="fa fa-chevron-circle-up float-right"></i></a>
+                </div>
+                <div class="content">
+                    <div class="avatar">
+                        <img src="Content/images/avatar.png" />
+                    </div>
+                    <div class="info">
+                        <a href="#">
+                            <i class="fa fa-user"></i>
+                            Lê Minh Hiếu
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-cog"></i>
+                            Đổi mật khẩu
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-power-off"></i>
+                            Thoát
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <ul class="list-unstyled components">
+                <li class="active">
+                    <a href="index.html">
+                        <i class="fa fa-dashboard"></i>
+                        Bàn Làm Việc
+                    </a>
+                </li>
+                <li>
+                    <a href="#sub-account-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-users"></i>
+                        Quản Lý Tài Khoản
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-account-menu">
+                        <li>
+                            <a href="account-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Tài Khoản
+                            </a>
+                        </li>
+                        <li>
+                            <a href="account-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Tài Khoản
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-article-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-newspaper-o"></i>
+                        Quản Lý Tin Tức
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-article-menu">
+                        <li>
+                            <a href="article-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Tin Tức
+                            </a>
+                        </li>
+                        <li>
+                            <a href="article-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Tin Tức
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-picture-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-picture-o"></i>
+                        Quản Lý Hình Ảnh
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-picture-menu">
+                        <li>
+                            <a href="picture-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Hình Ảnh
+                            </a>
+                        </li>
+                        <li>
+                            <a href="picture-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Hình Ảnh
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-video-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-file-video-o"></i>
+                        Quản Lý Video
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-video-menu">
+                        <li>
+                            <a href="video-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Video
+                            </a>
+                        </li>
+                        <li>
+                            <a href="video-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Video
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-product-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-laptop"></i>
+                        Quản Lý Sản Phẩm
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-product-menu">
+                        <li>
+                            <a href="product-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Sản Phẩm
+                            </a>
+                        </li>
+                        <li>
+                            <a href="product-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Sản Phẩm
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-contact-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-envelope"></i>
+                        Quản Lý Liên Hệ
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-contact-menu">
+                        <li>
+                            <a href="contact-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Liên Hệ
+                            </a>
+                        </li>
+                        <li>
+                            <a href="contact-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Liên Hệ
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+            <div class="btn-box">
+                <a class="btn btn-light btn-block" href="#">Về Trang Chủ</a>
+            </div>
+        </nav>
+
+        <!-- Page Content  -->
+        <div id="content">
+            <nav id="top-navbar" class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+                <div class="container-fluid">
+                    <button type="button" id="sidebarCollapse" class="navbar-btn">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    <div class="float-right">
+                        <a href="index.html">
+                            <img height="40" src="Content/images/admin-logo.png" />
+                        </a>
+                    </div>
+                </div>
+            </nav>
+
+            <main>
+                <!-- Thanh điều hướng -->
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Bàn Làm Việc</a></li>
+                        <li class="breadcrumb-item"><a href="#">Thể Loại Tài Khoản</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Tài Khoản</li>
+                    </ol>
+                </nav>
+                <!-- Nội dung chính -->
+                <ul class="row dasboard-list">
+                    <li class="col-lg-3 col-6">
+                        <a class="d-block" href="#">
+                            <img class="img-fluid" src="Content/images/icons/home-icon.png" />
+                            <span>Trang Chủ</span>
+                        </a>
+                    </li>
+                    <li class="col-lg-3 col-6">
+                        <a class="d-block" href="#">
+                            <img class="img-fluid" src="Content/images/icons/account-icon.png" />
+                            <span>Tài Khoản</span>
+                        </a>
+                    </li>
+                    <li class="col-lg-3 col-6">
+                        <a class="d-block" href="#">
+                            <img class="img-fluid" src="Content/images/icons/article-icon.png" />
+                            <span>Tin Tức</span>
+                        </a>
+                    </li>
+                    <li class="col-lg-3 col-6">
+                        <a class="d-block" href="#">
+                            <img class="img-fluid" src="Content/images/icons/product-icon.png" />
+                            <span>Sản Phẩm</span>
+                        </a>
+                    </li>
+                    <li class="col-lg-3 col-6">
+                        <a class="d-block" href="#">
+                            <img class="img-fluid" src="Content/images/icons/picture-icon.png" />
+                            <span>Hình Ảnh</span>
+                        </a>
+                    </li>
+                    <li class="col-lg-3 col-6">
+                        <a class="d-block" href="#">
+                            <img class="img-fluid" src="Content/images/icons/video-icon.png" />
+                            <span>Video</span>
+                        </a>
+                    </li>
+                    <li class="col-lg-3 col-6">
+                        <a class="d-block" href="#">
+                            <img class="img-fluid" src="Content/images/icons/service-icon.png" />
+                            <span>Dịch Vụ</span>
+                        </a>
+                    </li>
+                    <li class="col-lg-3 col-6">
+                        <a class="d-block" href="#">
+                            <img class="img-fluid" src="Content/images/icons/contact-icon.png" />
+                            <span>Liên Hệ</span>
+                        </a>
+                    </li>
+                </ul>
+            </main>
+
+            <footer>
+                Copyright &copy; 2022 Admin Control Panel
+            </footer>
+        </div>
+    </div>
+
+    <section id="script">
+        <script src="Scripts/popper.js"></script>
+        <script src="Scripts/jquery-3.0.0.js"></script>
+        <script src="Scripts/bootstrap.js"></script>
+        <script src="Scripts/jquery.mCustomScrollbar.concat.min.js"></script>
+        <script src="Scripts/jquery.nicescroll.js"></script>
+        <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+        <script src="Scripts/owl.carousel.js"></script>
+        <script src="Scripts/script.js"></script>
+    </section>
+</body>
+</html>

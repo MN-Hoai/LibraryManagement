@@ -1,0 +1,155 @@
+﻿@model LibraryManagement.Areas.Admin.Controllers.BookViewModel
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-route="trangchu">Bàn Làm Việc</a></li>
+        <li class="breadcrumb-item"><a href="#">Quản lý sách</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Thêm / Sửa sách</li>
+    </ol>
+</nav>
+
+<main class="col-md-9 col-lg-12 px-md-4">
+    <!-- Thông báo -->
+    <div id="alertBox" class="alert alert-info" style="display: none;"></div>
+
+    <div class="row">
+        <!-- Form thêm/sửa sách -->
+        <div class="col-md-4">
+            <div class="card shadow-sm p-3">
+                <h5 class="mb-3">📖 Thêm / Sửa sách</h5>
+                <form asp-action="AddBook" method="post" enctype="multipart/form-data">
+                    <input type="hidden" name="Book_Id" value="@Model.Book.Book_Id" />
+
+                    <div class="mb-2">
+                        <label class="form-label">Tiêu đề:</label>
+                        <input type="text" class="form-control" name="Title" value="@Model.Book.Title" required>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Tác giả:</label>
+                        <input type="text" class="form-control" name="Author" value="@Model.Book.Author" required>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Thể loại:</label>
+                        <input type="text" class="form-control" name="Category" value="@Model.Book.Category" required>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Năm Xuất Bản:</label>
+                        <input type="text" class="form-control" name="PublicationYear" value="@Model.Book.PublicationYear">
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">ISBN:</label>
+                        <input type="text" class="form-control" name="ISBN" value="@Model.Book.ISBN" required>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Vị trí kệ:</label>
+                        <input type="text" class="form-control" name="StorageLocation" value="@Model.Book.StorageLocation" required>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Số lượng:</label>
+                        <input type="number" class="form-control" name="Quantity" value="@Model.Book.Quantity" min="1" required>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Giá tiền:</label>
+                        <input type="text" class="form-control" name="Price" value="@Model.Book.Price" required>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Mô tả:</label>
+                        <textarea class="form-control" name="Describe">@Model.Book.Describe</textarea>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Ảnh sách:</label>
+                        <input type="file" class="form-control" id="ImageFile" name="ImageFile" />
+                        @if (!string.IsNullOrEmpty(Model.Book.Image))
+                        {
+                            <img src="@Model.Book.Image" alt="Book Image" class="img-thumbnail mt-2" style="max-height: 200px;" />
+                            <input type="hidden" id="ExistingImage" name="ExistingImage" value="@Model.Book.Image" />
+                        }
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">Lưu</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Danh sách sách -->
+        <div class="col-md-8">
+            <div class="card shadow-sm p-3">
+                <h5 class="mb-3">📚 Danh sách sách</h5>
+
+                <!-- Thanh tìm kiếm -->
+                <div class="d-flex mb-3">
+                    <input type="text" id="searchBook" class="form-control me-2" placeholder="Nhập từ khóa tìm kiếm...">
+                    <button class="btn btn-secondary" onclick="searchBook()">Tìm</button>
+                </div>
+
+                <table class="table table-bordered">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Ảnh</th>
+                            <th>Tiêu đề</th>
+                            <th>Tác giả</th>
+                            <th>ISBN</th>
+                            <th>Số lượng</th>
+                            <th>Vị trí kệ</th>
+                            <th>Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody id="bookList">
+                        @foreach (var book in Model.Books)
+                        {
+                            <tr id="bookRow_@book.Book_Id">
+                                <td>
+                                    @if (!string.IsNullOrEmpty(book.Image))
+                                    {
+                                        <img src="@book.Image" alt="Ảnh sách" width="70" height="100">
+                                    }
+                                </td>
+                                <td>@book.Title</td>
+                                <td>@book.Author</td>
+                                <td>@book.ISBN</td>
+                                <td>@book.Quantity</td>
+                                <td>@book.StorageLocation</td>
+                                <td>
+                                    <a href="@Url.RouteUrl("AdminAddBook", new { id = book.Book_Id })" class="btn btn-warning btn-sm">Sửa</a>
+                                    <button onclick="deleteBook(@book.Book_Id)" class="btn btn-danger btn-sm">Xóa</button>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</main>
+
+<script>
+    function deleteBook(id) {
+        if (!confirm("Bạn có chắc muốn xóa?")) return;
+
+        fetch(`/admin/book/delete?id=${id}`, { method: "POST" })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("alertBox").innerText = data.message;
+                document.getElementById("alertBox").style.display = "block";
+                if (data.success) {
+                    document.getElementById("bookRow_" + id).remove();
+                }
+            });
+    }
+
+    function searchBook() {
+        let keyword = document.getElementById("searchBook").value.toLowerCase();
+        let rows = document.querySelectorAll("#bookList tr");
+
+        rows.forEach(row => {
+            let title = row.children[1].textContent.toLowerCase();
+            let author = row.children[2].textContent.toLowerCase();
+            let isbn = row.children[3].textContent.toLowerCase();
+
+            if (title.includes(keyword) || author.includes(keyword) || isbn.includes(keyword)) {
+                row.style.display = "";
+            } else {
+                row.style.display = "none";
+            }
+        });
+    }
+</script>

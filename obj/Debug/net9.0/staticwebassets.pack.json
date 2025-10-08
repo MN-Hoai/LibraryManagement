@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\LibraryManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LibraryManagement.tswi2w73fl.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Content\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\admin-logo.png",
+      "PackagePath": "staticwebassets\\Content\\images\\admin-logo.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\avatar.png",
+      "PackagePath": "staticwebassets\\Content\\images\\avatar.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\carosel\\1.png",
+      "PackagePath": "staticwebassets\\Content\\images\\carosel\\1.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\carosel\\2.png",
+      "PackagePath": "staticwebassets\\Content\\images\\carosel\\2.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\carosel\\3.png",
+      "PackagePath": "staticwebassets\\Content\\images\\carosel\\3.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\carosel\\4.png",
+      "PackagePath": "staticwebassets\\Content\\images\\carosel\\4.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\carosel\\5.png",
+      "PackagePath": "staticwebassets\\Content\\images\\carosel\\5.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\icons\\account-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\account-icon.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\icons\\article-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\article-icon.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\icons\\contact-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\contact-icon.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\icons\\home-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\home-icon.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\icons\\picture-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\picture-icon.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\icons\\product-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\product-icon.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\icons\\service-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\service-icon.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\icons\\setting-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\setting-icon.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\icons\\video-icon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\video-icon.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\images\\no-image.png",
+      "PackagePath": "staticwebassets\\Content\\images\\no-image.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\Content\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Content\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Content\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Content\\style.css",
+      "PackagePath": "staticwebassets\\Content\\style.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\FileUpLoad\\Screenshot (351).png",
+      "PackagePath": "staticwebassets\\FileUpLoad\\Screenshot (351).png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\FileUpLoad\\Screenshot 2025-03-13 192553.png",
+      "PackagePath": "staticwebassets\\FileUpLoad\\Screenshot 2025-03-13 192553.png"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\FileUpLoad\\bg1.jpg",
+      "PackagePath": "staticwebassets\\FileUpLoad\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\FileUpLoad\\bg4.jpg",
+      "PackagePath": "staticwebassets\\FileUpLoad\\bg4.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\FileUpLoad\\bs-01.jpg",
+      "PackagePath": "staticwebassets\\FileUpLoad\\bs-01.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\FileUpLoad\\bs-02.jpg",
+      "PackagePath": "staticwebassets\\FileUpLoad\\bs-02.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\FileUpLoad\\bs-03.jpg",
+      "PackagePath": "staticwebassets\\FileUpLoad\\bs-03.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\FileUpLoad\\h10.jpg",
+      "PackagePath": "staticwebassets\\FileUpLoad\\h10.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Scripts\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Scripts\\jquery-3.0.0.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.0.0.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Scripts\\jquery.blinklink.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.blinklink.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Scripts\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Scripts\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Scripts\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Scripts\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Scripts\\popper.js",
+      "PackagePath": "staticwebassets\\Scripts\\popper.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\Scripts\\script.js",
+      "PackagePath": "staticwebassets\\Scripts\\script.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\addbook.html",
+      "PackagePath": "staticwebassets\\addbook.html"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\article-category.html",
+      "PackagePath": "staticwebassets\\article-category.html"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\article-edit.html",
+      "PackagePath": "staticwebassets\\article-edit.html"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\article-list.html",
+      "PackagePath": "staticwebassets\\article-list.html"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\bookDetail.html",
+      "PackagePath": "staticwebassets\\bookDetail.html"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\bookList.html",
+      "PackagePath": "staticwebassets\\bookList.html"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\bookyeucau.html",
+      "PackagePath": "staticwebassets\\bookyeucau.html"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\css\\NavBar.css",
+      "PackagePath": "staticwebassets\\css\\NavBar.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\css\\sidebar.css",
+      "PackagePath": "staticwebassets\\css\\sidebar.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\muontra.html",
+      "PackagePath": "staticwebassets\\muontra.html"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\sachmuon.html",
+      "PackagePath": "staticwebassets\\sachmuon.html"
+    },
+    {
+      "Id": "D:\\Learning\\ASP.Net nang cao\\LibraryManagement\\LibraryManagement\\wwwroot\\sreachBook.html",
+      "PackagePath": "staticwebassets\\sreachBook.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.LibraryManagement.props",
+      "PackagePath": "build\\LibraryManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.LibraryManagement.props",
+      "PackagePath": "buildMultiTargeting\\LibraryManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.LibraryManagement.props",
+      "PackagePath": "buildTransitive\\LibraryManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,85 @@
+﻿<div class="container-content">
+    <div class="card p-4 mt-4">
+        <h4 class="card-title mb-4">🔍 Tìm kiếm sách</h4>
+        <div class="row g-3">
+            <div class="col-md-8">
+                <input type="text" id="searchInput" class="form-control" placeholder="Nhập tên sách, tác giả, ISBN...">
+            </div>
+            <div class="col-md-4">
+                <button id="searchBtn" class=" btn btn-primary w-100">Tìm kiếm</button>
+            </div>
+        </div>
+        <div class="mt-4">
+           
+            <div class="d-flex flex-wrap align-items-center gap-2">
+                <span class="fw-bold mb-3">Từ khóa:</span>
+                <div id="categoryList" class="mb-3"></div>
+                
+            </div>
+        </div>
+        <div class="mt-4">
+            <h5 class="mb-3">Kết quả tìm kiếm:</h5>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Tiêu đề</th>
+                        <th>Tác giả</th>
+                        <th>Thể loại</th>
+                        <th>ISBN</th>
+                        <th>Năm xuất bản</th>
+                        <th>Hành động</th>
+                    </tr>
+                </thead>
+                <tbody id="searchResults">
+                    <tr><td colspan="6" class="text-center">Chưa có kết quả</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        fetch("/home/getCategories")
+            .then(res => res.json())
+            .then(categories => {
+                let categoryList = document.getElementById("categoryList");
+                categories.forEach(cat => {
+                    let btn = document.createElement("button");
+                    btn.classList.add("btn", "btn-outline-secondary", "m-1");
+                    btn.innerText = cat;
+                    btn.onclick = () => searchBooks(cat);
+                    categoryList.appendChild(btn);
+                });
+            });
+
+        document.getElementById("searchBtn").addEventListener("click", function() {
+            let keyword = document.getElementById("searchInput").value;
+            searchBooks(keyword);
+        });
+    });
+
+    function searchBooks(keyword) {
+        fetch(`/home/searchBooks?keyword=${keyword}`)
+            .then(res => res.json())
+            .then(books => {
+                let results = document.getElementById("searchResults");
+                results.innerHTML = "";
+                if (books.length === 0) {
+                    results.innerHTML = '<tr><td colspan="6" class="text-center">Không có kết quả</td></tr>';
+                } else {
+                    books.forEach(book => {
+                        let row = `<tr>
+                            <td>${book.title}</td>
+                            <td>${book.author}</td>
+                            <td>${book.category}</td>
+                            <td>${book.isbn}</td>
+                            <td>${book.publicationYear}</td>
+                               <td><a href="/home/bookdetails/${book.book_Id}" class="btn btn-info"><i class="fa fa-eye"></i> Xem chi tiết</a></td>
+                        </tr>`;
+                        results.innerHTML += row;
+                    });
+                }
+            });
+    }
+</script>

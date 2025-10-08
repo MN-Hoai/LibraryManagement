@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Bàn làm việc</title>
+    <link href="/Content/bootstrap.css" rel="stylesheet" />
+    <link href="/Content/font-awesome.css" rel="stylesheet" />
+    <link href="/Content/style.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link href="/Content/jquery.mCustomScrollbar.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <div class="title">
+                    <span>Xin chào,</span>
+                    <strong>Admin</strong>
+                    <a class="btn-collapse" href="#"><i class="fa fa-chevron-circle-up float-right"></i></a>
+                </div>
+                <div class="content">
+                    <div class="avatar">
+                        <img src="/Content/images/avatar.png" />
+                    </div>
+                    <div class="info">
+                        <a href="#">
+                            <i class="fa fa-user"></i>
+                            @ViewBag.Username
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-cog"></i>
+                            Đổi mật khẩu
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-power-off"></i>
+                            Thoát
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <ul class="list-unstyled components">
+                <li class="active">
+                    <a href="@Url.RouteUrl("trangchu")">
+                        <i class="fa fa-dashboard"></i>
+                        Bàn Làm Việc
+                    </a>
+                </li>
+                <li>
+                    <a href="@Url.RouteUrl("AdminAddReader")">
+                        <i class="fa fa-users"></i>
+                        Quản Lý Tài Khoản
+                    </a>
+                </li>
+                <li>
+                    <a href="@Url.RouteUrl("AdminAddBook")" >
+                        <i class="fa fa-book"></i>
+                        Quản lý sách
+                    </a>
+                </li>
+                <li>
+                    <a href="@Url.RouteUrl("AdminBorrowedBook")" ">
+                     
+                        <i class="fa fa-list"></i>
+                        Danh sách mượn 
+                    </a>
+          
+                </li>
+   
+                <li>
+                    <a href="#sub-picture-menu">
+                        <i class="fa fa-edit"></i>
+                        Đăng ký mượn sách
+                    </a>
+                </li>
+                <li>
+                    <a href="#sub-contact-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-envelope"></i>
+                        Quản Lý Liên Hệ
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-contact-menu">
+                        <li>
+                            <a href="contact-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Liên Hệ
+                            </a>
+                        </li>
+                        <li>
+                            <a href="contact-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Liên Hệ
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+            <div class="btn-box">
+                <a class="btn btn-light btn-block" href="@Url.RouteUrl("/")" asp-route="Default" >Về Trang Chủ</a>
+            </div>
+        </nav>
+
+        <!-- Page Content  -->
+        <div id="content">
+            <nav id="top-navbar" class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+                <div class="container-fluid">
+                    <button type="button" id="sidebarCollapse" class="navbar-btn">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    <div class="float-right">
+                        <a href="" >
+                            <img height="40" src="/Content/images/admin-logo.png" />
+                        </a>
+                    </div>
+                </div>
+            </nav>
+            @RenderBody()
+
+            <footer>
+                Copyright &copy; 2022 Admin Control Panel
+            </footer>
+        </div>
+    </div>
+
+    <section id="script">
+        <script src="/Scripts/popper.js"></script>
+        <script src="/Scripts/jquery-3.0.0.js"></script>
+        <script src="/Scripts/bootstrap.js"></script>
+        <script src="/Scripts/jquery.mCustomScrollbar.concat.min.js"></script>
+        <script src="/Scripts/jquery.nicescroll.js"></script>
+        <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+        <script src="/Scripts/owl.carousel.js"></script>
+        <script src="/Scripts/script.js"></script>
+    </section>
+</body>
+</html>

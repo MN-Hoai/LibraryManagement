@@ -1,0 +1,207 @@
+﻿@model LibraryManagement.Areas.Admin.Controllers.BorrowedBookController.BorrowRequest
+<div class="container-content">
+    <div class="row">
+        <!-- Form tìm kiếm bạn đọc -->
+        <div class="col-md-4">
+            <div class="card p-4 mt-4 shadow-lg rounded">
+                <h4 class="mb-3 text-primary"><i class="fa-solid fa-id-card"></i> Tìm kiếm bạn đọc</h4>
+                <form id="searchReaderForm">
+                    <div class="input-group mb-3">
+                        <input type="text" class="form-control" id="LibraryCard" placeholder="Nhập mã thư viện" required>
+                        <button type="submit" class="btn btn-primary"><i class="fa-solid fa-magnifying-glass"></i></button>
+                    </div>
+                </form>
+                <div id="readerInfo">
+                    <p id="readerMessage" class="text-danger"></p>
+                    <div class="mb-3">
+                        <label class="form-label">Họ và Tên</label>
+                        <input type="text" class="form-control" id="readerFullName" readonly>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Form tìm kiếm sách -->
+        <div class="col-md-4">
+            <div class="card p-4 mt-4 shadow-lg rounded">
+                <h4 class="mb-3 text-success"><i class="fa-solid fa-book"></i> Nhập ISBN để tìm sách</h4>
+                <form id="searchBookForm">
+                    <div class="input-group mb-3">
+                        <input type="text" class="form-control" id="ISBN" placeholder="Nhập mã ISBN" required>
+                        <button type="submit" class="btn btn-success"><i class="fa-solid fa-search"></i></button>
+                    </div>
+                </form>
+                <div id="bookInfo">
+                    <p id="bookMessage" class="text-danger"></p>
+                    <div class="mb-3">
+                        <label class="form-label">Tên sách</label>
+                        <input type="text" class="form-control" id="bookTitle" readonly>
+                    </div>
+                    <!-- Nút thêm sách vào danh sách -->
+                    <button id="addBookToList" class="btn btn-warning" style="display:none;">Thêm vào danh sách mượn</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Danh sách sách đã chọn để mượn -->
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card p-4 mt-4 shadow-lg rounded">
+                <h4 class="mb-3 text-warning"><i class="fa-solid fa-cart-shopping"></i> Danh sách sách mượn</h4>
+                <form id="borrowBookForm">
+                    <table class="table table-bordered">
+                        <thead class="table-dark">
+                            <tr>
+                                <th>Tên sách</th>
+                                <th>ISBN</th>
+                                <th>Hành động</th>
+                            </tr>
+                        </thead>
+                        <tbody id="borrowList"></tbody>
+                    </table>
+                    <button type="submit" class="btn btn-primary w-100"><i class="fa-solid fa-check"></i> Xác nhận mượn</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        // Lắng nghe sự kiện submit form tìm kiếm bạn đọc
+        $("#searchReaderForm").submit(function (event) {
+            event.preventDefault();
+
+            var libraryCard = $("#LibraryCard").val(); // Lấy mã thư viện từ input
+
+            // Gửi yêu cầu AJAX để tìm kiếm bạn đọc
+            $.ajax({
+                url: '/admin/borrowedbook/searchreader', // Đổi thành URL của action tìm kiếm bạn đọc
+                type: 'POST',
+                data: { LibraryCard: libraryCard },
+                success: function (response) {
+                    if (response.success) {
+                        // Nếu tìm thấy bạn đọc, hiển thị thông tin
+                        $("#readerFullName").val(response.reader.fullName);
+                        $("#readerMessage").text('');
+                    } else {
+                        // Nếu không tìm thấy, hiển thị thông báo lỗi
+                        $("#readerMessage").text(response.message);
+                        $("#readerFullName").val('');
+                    }
+                },
+                error: function () {
+                    $("#readerMessage").text("Có lỗi xảy ra, vui lòng thử lại.");
+                }
+            });
+        });
+
+        // Lắng nghe sự kiện submit form tìm kiếm sách
+        $("#searchBookForm").submit(function (event) {
+            event.preventDefault();
+
+            var isbn = $("#ISBN").val(); // Lấy mã ISBN từ input
+
+            // Gửi yêu cầu AJAX để tìm kiếm sách theo ISBN
+            $.ajax({
+                url: '/admin/borrowedbook/searchbook', // Đổi thành URL của action tìm kiếm sách
+                type: 'POST',
+                data: { ISBN: isbn },
+                success: function (response) {
+                    if (response.success) {
+                        // Nếu tìm thấy sách, hiển thị thông tin
+                        $("#bookTitle").val(response.book.title);
+                        $("#bookMessage").text('');
+                        $("#addBookToList").show(); // Hiển thị nút thêm sách
+                    } else {
+                        // Nếu không tìm thấy, hiển thị thông báo lỗi
+                        $("#bookMessage").text(response.message);
+                        $("#bookTitle").val('');
+                        $("#addBookToList").hide(); // Ẩn nút nếu không tìm thấy
+                    }
+                },
+                error: function () {
+                    $("#bookMessage").text("Có lỗi xảy ra, vui lòng thử lại.");
+                }
+            });
+        });
+
+        // Lắng nghe sự kiện nhấn nút thêm sách vào danh sách
+        $("#addBookToList").click(function () {
+            var bookTitle = $("#bookTitle").val();
+            var isbn = $("#ISBN").val();
+
+            // Kiểm tra nếu đã có sách trong danh sách
+            if (!bookTitle || !isbn) {
+                alert("Vui lòng tìm kiếm sách trước!");
+                return;
+            }
+
+            // Thêm sách vào danh sách mượn
+            var bookRow = `<tr data-book-id="${isbn}">
+                            <td>${bookTitle}</td>
+                            <td>${isbn}</td>
+                            <td><button class="btn btn-danger remove-book">Xóa</button></td>
+                        </tr>`;
+
+            $("#borrowList").append(bookRow);
+            $("#addBookToList").hide(); // Ẩn nút sau khi thêm sách
+
+            // Reset thông tin sách tìm được
+            $("#bookTitle").val('');
+            $("#ISBN").val('');
+        });
+
+        // Xóa sách khỏi danh sách mượn
+        $(document).on("click", ".remove-book", function () {
+            $(this).closest("tr").remove();
+        });
+
+     $("#borrowBookForm").submit(function (event) {
+        event.preventDefault();
+
+        var readerId = $("#LibraryCard").val(); // Mã thư viện (ReaderId)
+        var bookIds = [];
+
+        // Lấy tất cả ID sách từ danh sách mượn
+        $("#borrowList tr").each(function () {
+            var bookId = $(this).data('book-id'); // Lấy bookId từ thuộc tính data-book-id
+            bookIds.push(bookId);
+        });
+
+        // Kiểm tra nếu không có sách nào được chọn
+        if (bookIds.length === 0) {
+            alert("Vui lòng thêm sách vào danh sách mượn.");
+            return;
+        }
+
+     
+        // Gửi yêu cầu xác nhận mượn
+        $.ajax({
+            url: '/admin/borrowedbook/borrowbook',
+            type: 'POST',
+            contentType: 'application/json', 
+            data: JSON.stringify({
+                ReaderId: readerId,
+                Books: bookIds
+            }),
+           
+            success: function (response) {
+                if (response.success) {
+                    alert(response.message);
+                    $("#borrowList").empty(); // Xóa danh sách sau khi mượn thành công
+                } else {
+                    alert(response.message);
+                }
+            },
+            error: function () {
+                alert("Có lỗi xảy ra, vui lòng thử lại.");
+            }
+        });
+    });
+ });
+</script>
+
+
+

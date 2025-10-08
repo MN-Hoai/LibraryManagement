@@ -1,0 +1,364 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Thể Loại Sản Phẩm</title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/font-awesome.css" rel="stylesheet" />
+    <link href="Content/style.css" rel="stylesheet" />
+    <link href="Content/jquery.mCustomScrollbar.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <div class="title">
+                    <span>Xin chào,</span>
+                    <strong>Admin</strong>
+                    <a class="btn-collapse" href="#"><i class="fa fa-chevron-circle-up float-right"></i></a>
+                </div>
+                <div class="content">
+                    <div class="avatar">
+                        <img src="Content/images/avatar.png" />
+                    </div>
+                    <div class="info">
+                        <a href="#">
+                            <i class="fa fa-user"></i>
+                            Lê Minh Hiếu
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-cog"></i>
+                            Đổi mật khẩu
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-power-off"></i>
+                            Thoát
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <ul class="list-unstyled components">
+                <li class="active">
+                    <a href="index.html">
+                        <i class="fa fa-dashboard"></i>
+                        Bàn Làm Việc
+                    </a>
+                </li>
+                <li>
+                    <a href="#sub-account-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-users"></i>
+                        Quản Lý Tài Khoản
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-account-menu">
+                        <li>
+                            <a href="account-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Tài Khoản
+                            </a>
+                        </li>
+                        <li>
+                            <a href="account-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Tài Khoản
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-article-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-newspaper-o"></i>
+                        Quản Lý Tin Tức
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-article-menu">
+                        <li>
+                            <a href="article-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Tin Tức
+                            </a>
+                        </li>
+                        <li>
+                            <a href="article-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Tin Tức
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-picture-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-picture-o"></i>
+                        Quản Lý Hình Ảnh
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-picture-menu">
+                        <li>
+                            <a href="picture-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Hình Ảnh
+                            </a>
+                        </li>
+                        <li>
+                            <a href="picture-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Hình Ảnh
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-video-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-file-video-o"></i>
+                        Quản Lý Video
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-video-menu">
+                        <li>
+                            <a href="video-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Video
+                            </a>
+                        </li>
+                        <li>
+                            <a href="video-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Video
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-product-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-laptop"></i>
+                        Quản Lý Sản Phẩm
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-product-menu">
+                        <li>
+                            <a href="product-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Sản Phẩm
+                            </a>
+                        </li>
+                        <li>
+                            <a href="product-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Sản Phẩm
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-contact-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-envelope"></i>
+                        Quản Lý Liên Hệ
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-contact-menu">
+                        <li>
+                            <a href="contact-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Liên Hệ
+                            </a>
+                        </li>
+                        <li>
+                            <a href="contact-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Liên Hệ
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+            <div class="btn-box">
+                <a class="btn btn-light btn-block" href="#">Về Trang Chủ</a>
+            </div>
+        </nav>
+
+        <!-- Page Content  -->
+        <div id="content">
+            <nav id="top-navbar" class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+                <div class="container-fluid">
+                    <button type="button" id="sidebarCollapse" class="navbar-btn">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    <div class="float-right">
+                        <a href="index.html">
+                            <img height="40" src="Content/images/admin-logo.png" />
+                        </a>
+                    </div>
+                </div>
+            </nav>
+
+            <main>
+                <!-- Thanh điều hướng -->
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Bàn Làm Việc</a></li>
+                        <li class="breadcrumb-item"><a href="#">Thể Loại Tài Khoản</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Tài Khoản</li>
+                    </ol>
+                </nav>
+                <!-- Nội dung chính -->
+                <section class="category-page">
+                    <div class="row">
+                        <div class="col-lg-3 col-12 left">
+                            <header>
+                                <i class="fa fa-folder icon"></i>
+                                <h4>Danh Sách Thể Loại</h4>
+                                <div class="clearfix"></div>
+                            </header>
+                            <content>
+                                <select size="20" class="form-control select-category-main">
+                                    <option value="value">text</option>
+                                </select>
+                            </content>
+                        </div>
+                        <div class="col-lg-9 col-12 right">
+                            <header>
+                                <i class="fa fa-folder icon"></i>
+                                <h4>Danh Sách Thể Loại</h4>
+                                <a class="btn delete-btn" href="#">
+                                    <i class="fa fa-trash"></i>
+                                </a>
+                                <a class="btn add-btn" href="#">
+                                    <i class="fa fa-plus-circle"></i>
+                                </a>
+                                <div class="clearfix"></div>
+                            </header>
+                            <content>
+                                <div class="accordion" id="accordion-main">
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <h2 class="mb-0">
+                                                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne">
+                                                    <i class="fa fa-caret-right"></i>
+                                                    Thông tin cơ bản
+                                                </button>
+                                            </h2>
+                                        </div>
+
+                                        <div id="collapseOne" class="collapse show" data-parent="#accordion-main">
+                                            <div class="card-body">
+                                                <div class="row">
+                                                    <div class="col-12 col-lg-2">
+                                                        Mã số:
+                                                    </div>
+                                                    <div class="col-12 col-lg-2">
+                                                        <input type="text" class="form-control form-control-sm" />
+                                                    </div>
+                                                    <div class="col-12 col-lg-1">
+                                                        Vị trí:
+                                                    </div>
+                                                    <div class="col-12 col-lg-1">
+                                                        <input type="text" class="form-control form-control-sm" />
+                                                    </div>
+                                                    <div class="col-12 col-lg-1">
+                                                        Code:
+                                                    </div>
+                                                    <div class="col-12 col-lg-1">
+                                                        <input type="text" class="form-control form-control-sm" />
+                                                    </div>
+                                                    <div class="col-12 col-lg-4">
+                                                        <small class="font-italic">(Vị trí và code được phép để trống)</small>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-12 col-lg-2">
+                                                        Tiêu đề:
+                                                    </div>
+                                                    <div class="col-12 col-lg-10">
+                                                        <input type="text" class="form-control form-control-sm" />
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-12 col-lg-2">
+                                                        Mô tả:
+                                                    </div>
+                                                    <div class="col-12 col-lg-10">
+                                                        <textarea class="form-control form-control-sm"></textarea>
+                                                    </div>
+                                                </div>
+                                                <div class="row avatar-container">
+                                                    <div class="col-12 col-lg-2">
+                                                        Hình đại diện:
+                                                    </div>
+                                                    <div class="col-12 col-lg-3">
+                                                        <div class="avatar-box">
+                                                            <a class="close" href="#">
+                                                                <i class="fa fa-times-circle"></i>
+                                                            </a>
+                                                            <img class="img-fluid img-preview" src="Content/images/avatar.png" />
+                                                            <input type="file" class="img-upload form-control form-control-sm" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-12 col-lg-7 avatar-link">
+                                                        <div class="input-group input-group-sm link-box">
+                                                            <input type="text" class="form-control">
+                                                            <div class="input-group-append">
+                                                                <button class="btn btn-outline-secondary" type="button">&times;</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <h2 class="mb-0">
+                                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo">
+                                                    <i class="fa fa-caret-right"></i>
+                                                    Nội dung chi tiết
+                                                </button>
+                                            </h2>
+                                        </div>
+
+                                        <div id="collapseTwo" class="collapse" data-parent="#accordion-main">
+                                            <div class="card-body p-0">
+                                                <textarea class="form-control editor"></textarea>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="p-3">
+                                    <div class="row">
+                                        <div class="col-12 col-lg-2">
+                                            <a class="btn btn-primary" href="#">
+                                                <i class="fa fa-save"></i>
+                                                Lưu
+                                            </a>
+                                        </div>
+                                        <div class="col-12 col-lg-10">
+                                            <div class="alert alert-info alert-dismissible fade show mb-0" role="alert">
+                                                <span>Mời nhập thông tin</span>
+                                                <button type="button" class="close" data-dismiss="alert">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </content>
+                        </div>
+                    </div>
+                </section>
+            </main>
+            <footer>
+                Copyright &copy; 2022 Admin Control Panel
+            </footer>
+        </div>
+    </div>
+
+    <section id="script">
+        <script src="Scripts/popper.js"></script>
+        <script src="Scripts/jquery-3.0.0.js"></script>
+        <script src="Scripts/bootstrap.js"></script>
+        <script src="Scripts/jquery.mCustomScrollbar.concat.min.js"></script>
+        <script src="Scripts/jquery.nicescroll.js"></script>
+        <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+        <script src="Scripts/owl.carousel.js"></script>
+        <script src="Scripts/script.js"></script>
+    </section>
+</body>
+</html>

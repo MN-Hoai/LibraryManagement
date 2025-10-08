@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản lý mượn trả</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .btn-action {
+            background-color: #007bff;
+            color: white;
+        }
+
+            .btn-action:hover {
+                background-color: #0056b3;
+            }
+
+        .sidebar {
+            background-color: #003366;
+            min-height: 100vh;
+            color: white;
+            padding: 20px;
+        }
+
+            .sidebar .nav-link {
+                color: white;
+                font-size: 18px;
+                padding: 10px;
+            }
+
+                .sidebar .nav-link:hover {
+                    background-color: #0056b3;
+                    border-radius: 5px;
+                }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <nav class="col-md-3 col-lg-2 d-md-block sidebar">
+                <h2 class="py-3 text-center">Quản lý thư viện</h2>
+                <ul class="nav flex-column">
+                    <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-book"></i> Quản lý sách</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-users"></i> Danh sách bạn đọc</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="#"><i class="fas fa-exchange-alt"></i> Quản lý mượn/trả</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-money-bill"></i> Khoản phạt</a></li>
+                </ul>
+            </nav>
+            <main class="col-md-9 col-lg-10 px-md-4">
+                <div class="row mt-4">
+                    <div class="col-md-6">
+                        <h2>Sách đang mượn</h2>
+                        <div class="input-group mb-3">
+                            <input type="text" class="form-control" placeholder="Tìm kiếm sách...">
+                            <button class="btn btn-primary" type="button"><i class="fas fa-search"></i></button>
+                        </div>
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>STT</th>
+                                    <th>Tên sách</th>
+                                    <th>Mã thư viện</th>
+                                    <th>Người mượn</th>
+                                    <th>Hành động</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Lập trình C++</td>
+                                    <td>123456</td>
+                                    <td>Nguyễn Văn A</td>
+                                    <td><button class="btn btn-sm btn-action"><i class="fas fa-info-circle"></i></button></td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>Python cơ bản</td>
+                                    <td>654321</td>
+                                    <td>Trần Thị B</td>
+                                    <td><button class="btn btn-sm btn-action"><i class="fas fa-info-circle"></i></button></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="col-md-6">
+                        <h2>Thông tin mượn sách</h2>
+                        <form>
+                            <div class="mb-3">
+                                <label class="form-label">Mã thư viện:</label>
+                                <input type="text" class="form-control" readonly>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Họ tên:</label>
+                                <input type="text" class="form-control" readonly>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Tên sách:</label>
+                                <input type="text" class="form-control" readonly>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Ngày mượn:</label>
+                                <input type="date" class="form-control" readonly>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Hạn trả:</label>
+                                <input type="date" class="form-control" readonly>
+                            </div>
+                            <button type="button" class="btn btn-success">Gia hạn</button>
+                            <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#penaltyModal">Phạt</button>
+                            <button type="button" class="btn btn-warning">Trả sách</button>
+                        </form>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <div class="modal fade" id="penaltyModal" tabindex="-1" aria-labelledby="penaltyModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="penaltyModalLabel">Xử lý khoản phạt</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="mb-3">
+                            <label class="form-label">Số tiền phạt:</label>
+                            <input type="number" class="form-control">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Lý do:</label>
+                            <textarea class="form-control"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Xác nhận</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

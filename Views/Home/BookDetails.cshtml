@@ -1,0 +1,26 @@
+﻿@model LibraryManagement.Areas.Admin.Models.Book
+
+@{
+    ViewData["Title"] = Model.Title;
+}
+<div class="container-content">
+    <h2 class="mb-3">📖 Chi tiết sách</h2>
+    <div class="card p-4 text-left">
+        <div class="text-center">
+            @if (!string.IsNullOrEmpty(Model.Image))
+            {
+                <img src="@Model.Image" alt="Bìa sách" class="img-fluid mb-3" style="max-width:300px;">
+            }
+        </div>
+        <h3>@Model.Title</h3>
+        <p><strong>Tác giả:</strong> @Model.Author</p>
+        <p><strong>Thể loại:</strong> @Model.Category</p>
+        <p><strong>ISBN:</strong> @Model.ISBN</p>
+        <p><strong>Năm xuất bản:</strong> @Model.PublicationYear</p>
+        <p><strong>Vị trí lưu trữ:</strong> @Model.StorageLocation</p>
+        <p><strong>Số lượng sẵn có:</strong> @Model.Quantity</p>
+        <p><strong>Giá tiền:</strong> @Model.Price VND</p>
+        <p><strong>Mô tả:</strong> @Model.Describe</p>
+        <a href="/" class="btn btn-secondary mt-3">⬅ Quay lại</a>
+    </div>
+</div>

@@ -1,0 +1,396 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Danh sách tin tức</title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/font-awesome.css" rel="stylesheet" />
+    <link href="Content/jquery.mCustomScrollbar.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" rel="stylesheet" />
+    <link href="Content/style.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <div class="title">
+                    <span>Xin chào,</span>
+                    <strong>Admin</strong>
+                    <a class="btn-collapse" href="#"><i class="fa fa-chevron-circle-up float-right"></i></a>
+                </div>
+                <div class="content">
+                    <div class="avatar">
+                        <img src="Content/images/avatar.png" />
+                    </div>
+                    <div class="info">
+                        <a href="#">
+                            <i class="fa fa-user"></i>
+                            Lê Minh Hiếu
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-cog"></i>
+                            Đổi mật khẩu
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-power-off"></i>
+                            Thoát
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <ul class="list-unstyled components">
+                <li class="active">
+                    <a href="index.html">
+                        <i class="fa fa-dashboard"></i>
+                        Bàn Làm Việc
+                    </a>
+                </li>
+                <li>
+                    <a href="#sub-account-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-users"></i>
+                        Quản Lý Tài Khoản
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-account-menu">
+                        <li>
+                            <a href="account-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Tài Khoản
+                            </a>
+                        </li>
+                        <li>
+                            <a href="account-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Tài Khoản
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-article-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-newspaper-o"></i>
+                        Quản Lý Tin Tức
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-article-menu">
+                        <li>
+                            <a href="article-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Tin Tức
+                            </a>
+                        </li>
+                        <li>
+                            <a href="article-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Tin Tức
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-picture-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-picture-o"></i>
+                        Quản Lý Hình Ảnh
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-picture-menu">
+                        <li>
+                            <a href="picture-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Hình Ảnh
+                            </a>
+                        </li>
+                        <li>
+                            <a href="picture-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Hình Ảnh
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-video-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-file-video-o"></i>
+                        Quản Lý Video
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-video-menu">
+                        <li>
+                            <a href="video-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Video
+                            </a>
+                        </li>
+                        <li>
+                            <a href="video-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Video
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-product-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-laptop"></i>
+                        Quản Lý Sản Phẩm
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-product-menu">
+                        <li>
+                            <a href="product-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Sản Phẩm
+                            </a>
+                        </li>
+                        <li>
+                            <a href="product-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Sản Phẩm
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#sub-contact-menu" data-toggle="collapse" class="dropdown-toggle">
+                        <i class="fa fa-envelope"></i>
+                        Quản Lý Liên Hệ
+                    </a>
+                    <ul class="collapse list-unstyled" id="sub-contact-menu">
+                        <li>
+                            <a href="contact-category.html">
+                                <i class="fa fa-caret-right"></i>
+                                Thể Loại Liên Hệ
+                            </a>
+                        </li>
+                        <li>
+                            <a href="contact-list.html">
+                                <i class="fa fa-caret-right"></i>
+                                Danh Sách Liên Hệ
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+            <div class="btn-box">
+                <a class="btn btn-light btn-block" href="#">Về Trang Chủ</a>
+            </div>
+        </nav>
+
+        <!-- Page Content  -->
+        <div id="content">
+            <nav id="top-navbar" class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+                <div class="container-fluid">
+                    <button type="button" id="sidebarCollapse" class="navbar-btn">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    <div class="float-right">
+                        <a href="index.html">
+                            <img height="40" src="Content/images/admin-logo.png" />
+                        </a>
+                    </div>
+                </div>
+            </nav>
+
+            <main>
+                <!-- Thanh điều hướng -->
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Bàn Làm Việc</a></li>
+                        <li class="breadcrumb-item"><a href="#">Thể Loại Tài Khoản</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Tài Khoản</li>
+                    </ol>
+                </nav>
+                <!-- Nội dung chính -->
+                <table class="table table-bordered table-striped list-page">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th width="170">
+                                <i class="fa fa-picture-o"></i>
+                                Hình
+                            </th>
+                            <th>
+                                <i class="fa fa-window-maximize"></i>
+                                Tiêu đề
+                            </th>
+                            <th>
+                                <i class="fa fa-user-circle"></i>
+                                Người đăng
+                            </th>
+                            <th width="120" class="text-center">
+                                <i class="fa fa-flash"></i>
+                                Chức năng
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="avatar-container">
+                                <div class="avatar-box">
+                                    <a class="close" href="#">
+                                        <i class="fa fa-times-circle"></i>
+                                    </a>
+                                    <a data-fancybox="gallery" href="https://znews-photo.zadn.vn/Uploaded/neg_wpeczyr/2020_01_05/Apple_ra_mat_2_mau_iPhone_SE_2_1.jpg">
+                                        <img class="img-fluid img-preview" src="https://znews-photo.zadn.vn/Uploaded/neg_wpeczyr/2020_01_05/Apple_ra_mat_2_mau_iPhone_SE_2_1.jpg" />
+                                    </a>
+                                    <input type="file" class="img-upload form-control form-control-sm" />
+                                </div>
+                            </td>
+                            <td class="align-middle">
+                                <b>Huawei bị cấm cửa trên toàn cầu</b>
+                                <br />
+                                Mã số: <b>1</b>
+                                <br />
+                                Thể loại: <b>Video</b>
+                            </td>
+                            <td class="align-middle">
+                                Admin
+                                <br />
+                                11/11/2019
+                                <br />
+                                06:00:00
+                            </td>
+                            <td class="align-middle">
+                                <a class="btn btn-primary btn-sm btn-block" href="#">
+                                    <i class="fa fa-edit"></i>
+                                    Sửa
+                                </a>
+                                <a class="btn btn-warning btn-sm btn-block" href="#">
+                                    <i class="fa fa-lock"></i>
+                                    Khóa
+                                </a>
+                                <a class="btn btn-danger btn-sm btn-block" href="#">
+                                    <i class="fa fa-trash"></i>
+                                    Xóa
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="avatar-container">
+                                <div class="avatar-box">
+                                    <a class="close" href="#">
+                                        <i class="fa fa-times-circle"></i>
+                                    </a>
+                                    <a data-fancybox="gallery" href="https://znews-photo.zadn.vn/Uploaded/ynssi/2020_01_05/Samsung_Galaxy_S11_Plus_Renders_OnLeaks_4.jpg">
+                                        <img class="img-fluid img-preview" src="https://znews-photo.zadn.vn/w480/Uploaded/ynssi/2020_01_05/Samsung_Galaxy_S11_Plus_Renders_OnLeaks_4.jpg" />
+                                    </a>
+                                    <input type="file" class="img-upload form-control form-control-sm" />
+                                </div>
+                            </td>
+                            <td class="align-middle">
+                                <b>Huawei bị cấm cửa trên toàn cầu</b>
+                                <br />
+                                Mã số: <b>1</b>
+                                <br />
+                                Thể loại: <b>Video</b>
+                            </td>
+                            <td class="align-middle">
+                                Admin
+                                <br />
+                                11/11/2019
+                                <br />
+                                06:00:00
+                            </td>
+                            <td class="align-middle">
+                                <a class="btn btn-primary btn-sm btn-block" href="#">
+                                    <i class="fa fa-edit"></i>
+                                    Sửa
+                                </a>
+                                <a class="btn btn-warning btn-sm btn-block" href="#">
+                                    <i class="fa fa-lock"></i>
+                                    Khóa
+                                </a>
+                                <a class="btn btn-danger btn-sm btn-block" href="#">
+                                    <i class="fa fa-trash"></i>
+                                    Xóa
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="avatar-container">
+                                <div class="avatar-box">
+                                    <a class="close" href="#">
+                                        <i class="fa fa-times-circle"></i>
+                                    </a>
+                                    <a data-fancybox="gallery" href="https://znews-photo.zadn.vn/Uploaded/lce_jwquc/2020_01_04/Z05304012020_copy.jpg">
+                                        <img class="img-fluid img-preview" src="https://znews-photo.zadn.vn/w480/Uploaded/lce_jwquc/2020_01_04/Z05304012020_copy.jpg" />
+                                    </a>
+                                    <input type="file" class="img-upload form-control form-control-sm" />
+                                </div>
+                            </td>
+                            <td class="align-middle">
+                                <b>Huawei bị cấm cửa trên toàn cầu</b>
+                                <br />
+                                Mã số: <b>1</b>
+                                <br />
+                                Thể loại: <b>Video</b>
+                            </td>
+                            <td class="align-middle">
+                                Admin
+                                <br />
+                                11/11/2019
+                                <br />
+                                06:00:00
+                            </td>
+                            <td class="align-middle">
+                                <a class="btn btn-primary btn-sm btn-block" href="#">
+                                    <i class="fa fa-edit"></i>
+                                    Sửa
+                                </a>
+                                <a class="btn btn-warning btn-sm btn-block" href="#">
+                                    <i class="fa fa-lock"></i>
+                                    Khóa
+                                </a>
+                                <a class="btn btn-danger btn-sm btn-block" href="#">
+                                    <i class="fa fa-trash"></i>
+                                    Xóa
+                                </a>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="4">
+                                <ul class="pagination pagination-sm justify-content-center mb-0">
+                                    <li class="page-item disabled">
+                                        <a class="page-link" href="#" aria-label="Previous">
+                                            <span aria-hidden="true">
+                                                <i class="fa fa-angle-left"></i>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                    <li class="page-item">
+                                        <a class="page-link" href="#" aria-label="Next">
+                                            <span aria-hidden="true">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </main>
+
+            <footer>
+                Copyright &copy; 2022 Admin Control Panel
+            </footer>
+        </div>
+    </div>
+
+    <section id="script">
+        <script src="Scripts/popper.js"></script>
+        <script src="Scripts/jquery-3.0.0.js"></script>
+        <script src="Scripts/bootstrap.js"></script>
+        <script src="Scripts/jquery.mCustomScrollbar.concat.min.js"></script>
+        <script src="Scripts/jquery.nicescroll.js"></script>
+        <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+        <script src="Scripts/owl.carousel.js"></script>
+        <script src="Scripts/script.js"></script>
+    </section>
+</body>
+</html>

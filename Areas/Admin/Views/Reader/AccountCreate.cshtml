@@ -1,0 +1,171 @@
+﻿@model LibraryManagement.Areas.Admin.Controllers.ReaderViewModel
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-route="trangchu">Bàn Làm Việc</a></li>
+        <li class="breadcrumb-item"><a href="#">Quản lý bạn đọc</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Thêm / Sửa bạn đọc</li>
+    </ol>
+</nav>
+
+<main class="container">
+    <!-- Thông báo -->
+    <div id="alertBox" class="alert alert-info" style="display: none;"></div>
+
+    <div class="row">
+        <!-- Form thêm/sửa bạn đọc -->
+        <div class="col-md-4">
+            <div class="card shadow-sm p-3">
+                <h5 class="mb-3">📄 Thêm / Sửa bạn đọc</h5>
+                <form id="readerForm">
+                    <input type="hidden" id="readerId" />
+
+                    <div class="mb-2">
+                        <label class="form-label">Họ và Tên:</label>
+                        <input type="text" class="form-control" id="fullName" required>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Số thẻ thư viện:</label>
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="libraryCardNumber" name="LibraryCardNumber" required>
+                            <button type="button" class="btn btn-secondary" onclick="generateLibraryCard()">Tạo</button>
+                        </div>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Số điện thoại:</label>
+                        <input type="text" class="form-control" id="phone">
+                    </div>
+                    <button type="button" class="btn btn-primary w-100" onclick="saveReader()">Lưu</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Danh sách bạn đọc -->
+        <div class="col-md-8">
+            <div class="card shadow-sm p-3">
+                <h5 class="mb-3">📚 Danh sách bạn đọc</h5>
+
+                <!-- Thanh tìm kiếm -->
+                <div class="d-flex mb-3">
+                    <input type="text" id="searchReader" class="form-control me-2" placeholder="Nhập từ khóa tìm kiếm...">
+                    <button class="btn btn-secondary" onclick="searchReader()">Tìm</button>
+                </div>
+
+                <table class="table table-bordered">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>ID</th>
+                            <th>Họ và Tên</th>
+                            <th>Số thẻ</th>
+                            <th>Điện thoại</th>
+                            <th>Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody id="readerList">
+                        @foreach (var reader in Model.Readers)
+                        {
+                            <tr id="readerRow_@reader.ReaderId">
+                                <td>@reader.ReaderId</td>
+                                <td>@reader.FullName</td>
+                                <td>@reader.LibraryCardNumber</td>
+                                <td>@reader.Phone</td>
+                                <td>
+                                    <button onclick="editReader(@reader.ReaderId, '@reader.FullName', '@reader.LibraryCardNumber', '@reader.Phone')" class="btn btn-warning btn-sm">Sửa</button>
+                                    <button onclick="deleteReader(@reader.ReaderId)" class="btn btn-danger btn-sm">Xóa</button>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</main>
+
+<script>
+    function editReader(id, fullName, cardNumber, phone) {
+        document.getElementById("readerId").value = id;
+        document.getElementById("fullName").value = fullName;
+        document.getElementById("libraryCardNumber").value = cardNumber;
+        document.getElementById("phone").value = phone;
+    }
+
+    function saveReader() {
+        let id = document.getElementById("readerId").value;
+        let fullName = document.getElementById("fullName").value;
+        let libraryCardNumber = document.getElementById("libraryCardNumber").value;
+        let phone = document.getElementById("phone").value;
+
+        fetch(`/admin/reader/accountcreate`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+                ReaderId: id ? parseInt(id) : 0,
+                FullName: fullName,
+                LibraryCardNumber: libraryCardNumber,
+                Phone: phone
+            })
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById("alertBox").innerText = data.message;
+            document.getElementById("alertBox").style.display = "block";
+
+            if (data.success) {
+                location.reload();  // Tải lại trang để cập nhật danh sách
+            }
+        });
+    }
+
+    function deleteReader(id) {
+        if (!confirm("Bạn có chắc muốn xóa?")) return;
+
+        fetch(`/admin/reader/delete`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ id: id })
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById("alertBox").innerText = data.message;
+            document.getElementById("alertBox").style.display = "block";
+            if (data.success) {
+                document.getElementById("readerRow_" + id).remove();
+            }
+        });
+    }
+
+    function searchReader() {
+        let keyword = document.getElementById("searchReader").value.toLowerCase();
+        let rows = document.querySelectorAll("#readerList tr");
+
+        rows.forEach(row => {
+            let fullName = row.children[1].textContent.toLowerCase();
+            let cardNumber = row.children[2].textContent.toLowerCase();
+            let phone = row.children[3].textContent.toLowerCase();
+
+            if (fullName.includes(keyword) || cardNumber.includes(keyword) || phone.includes(keyword)) {
+                row.style.display = "";
+            } else {
+                row.style.display = "none";
+            }
+        });
+    }
+          async function generateLibraryCard() {
+        let now = new Date();
+        let minutePart = String(now.getMinutes()).padStart(2, '0'); // Lấy phút hiện tại
+        let randomNumber = Math.floor(1000 + Math.random() * 9000); // 4 số ngẫu nhiên
+
+        let newCardNumber = `LIB${minutePart}${randomNumber}`;
+
+        // Kiểm tra số có trùng không bằng AJAX
+        let response = await fetch(`/admin/reader/checkLibraryCard?cardNumber=${newCardNumber}`);
+        let data = await response.json();
+
+        if (data.exists) {
+            generateLibraryCard(); // Nếu trùng thì tạo lại
+        } else {
+            document.getElementById("libraryCardNumber").value = newCardNumber;
+        }
+    }
+</script>

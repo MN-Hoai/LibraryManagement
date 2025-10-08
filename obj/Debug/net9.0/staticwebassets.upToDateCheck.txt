@@ -1,0 +1,212 @@
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\article-list.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\sachmuon.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\index.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery\LICENSE.txt
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\css\site.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Scripts\script.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Scripts\jquery-3.0.0.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Scripts\jquery.nicescroll.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Scripts\bootstrap.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\css\NavBar.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\article-edit.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\addbook.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\fonts\FontAwesome.otf
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\bookyeucau.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Content\style.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\favicon.ico
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Scripts\popper.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\sreachBook.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\bookList.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\login.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Scripts\owl.carousel.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\fonts\fontawesome-webfont.svg
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery\dist\jquery.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\muontra.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Content\owl.theme.default.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Scripts\jquery.blinklink.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Content\bootstrap.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\css\sidebar.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\article-category.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Content\jquery.mCustomScrollbar.min.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Scripts\jquery.mCustomScrollbar.concat.min.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery\dist\jquery.min.js
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery-validation\LICENSE.md
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\bookDetail.html
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Content\owl.carousel.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\jquery\dist\jquery.min.map
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\wwwroot\Content\font-awesome.css
+wwwroot\addbook.html
+wwwroot\article-category.html
+wwwroot\article-edit.html
+wwwroot\article-list.html
+wwwroot\bookDetail.html
+wwwroot\bookList.html
+wwwroot\bookyeucau.html
+wwwroot\Content\bootstrap.css
+wwwroot\Content\font-awesome.css
+wwwroot\Content\images\admin-logo.png
+wwwroot\Content\images\avatar.png
+wwwroot\Content\images\carosel\1.png
+wwwroot\Content\images\carosel\2.png
+wwwroot\Content\images\carosel\3.png
+wwwroot\Content\images\carosel\4.png
+wwwroot\Content\images\carosel\5.png
+wwwroot\Content\images\icons\account-icon.png
+wwwroot\Content\images\icons\article-icon.png
+wwwroot\Content\images\icons\contact-icon.png
+wwwroot\Content\images\icons\home-icon.png
+wwwroot\Content\images\icons\picture-icon.png
+wwwroot\Content\images\icons\product-icon.png
+wwwroot\Content\images\icons\service-icon.png
+wwwroot\Content\images\icons\setting-icon.png
+wwwroot\Content\images\icons\video-icon.png
+wwwroot\Content\images\no-image.png
+wwwroot\Content\jquery.mCustomScrollbar.min.css
+wwwroot\Content\owl.carousel.css
+wwwroot\Content\owl.theme.default.css
+wwwroot\Content\style.css
+wwwroot\css\NavBar.css
+wwwroot\css\sidebar.css
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\FileUpLoad\bg1.jpg
+wwwroot\FileUpLoad\bg4.jpg
+wwwroot\FileUpLoad\bs-01.jpg
+wwwroot\FileUpLoad\bs-02.jpg
+wwwroot\FileUpLoad\bs-03.jpg
+wwwroot\FileUpLoad\h10.jpg
+wwwroot\FileUpLoad\Screenshot (351).png
+wwwroot\FileUpLoad\Screenshot 2025-03-13 192553.png
+wwwroot\fonts\FontAwesome.otf
+wwwroot\fonts\fontawesome-webfont.eot
+wwwroot\fonts\fontawesome-webfont.svg
+wwwroot\fonts\fontawesome-webfont.ttf
+wwwroot\fonts\fontawesome-webfont.woff
+wwwroot\fonts\fontawesome-webfont.woff2
+wwwroot\index.html
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\login.html
+wwwroot\muontra.html
+wwwroot\sachmuon.html
+wwwroot\Scripts\bootstrap.js
+wwwroot\Scripts\jquery.blinklink.js
+wwwroot\Scripts\jquery.mCustomScrollbar.concat.min.js
+wwwroot\Scripts\jquery.nicescroll.js
+wwwroot\Scripts\jquery-3.0.0.js
+wwwroot\Scripts\owl.carousel.js
+wwwroot\Scripts\popper.js
+wwwroot\Scripts\script.js
+wwwroot\sreachBook.html

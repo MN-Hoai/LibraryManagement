@@ -1,0 +1,718 @@
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\appsettings.Development.json
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\appsettings.json
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.staticwebassets.runtime.json
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.staticwebassets.endpoints.json
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.exe
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.deps.json
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.runtimeconfig.json
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.pdb
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Humanizer.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Build.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Common.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.CodeDom.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.csproj.AssemblyReference.cache
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.AssemblyInfo.cs
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.RazorAssemblyInfo.cache
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.RazorAssemblyInfo.cs
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\scopedcss\bundle\LibraryManagement.styles.css
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\scopedcss\projectbundle\LibraryManagement.bundle.scp.css
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\6j2bjgr2xp-b9sayid5wm.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\e70ifj3kct-61n19gt1b8.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zxx2lpuf4a-bqjiyaj88i.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\j1dp6y8imy-c2jlpeoesf.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\3vsq811k52-erw9l3u2r3.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\u3y5a5rzcb-aexeepp0ev.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\xwuxafgzlx-d7shbmvgxk.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\w9fku29bsp-ausgxo2sd3.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ls5r8uyzdg-k8d9w2qqmf.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ynj3al3wte-cosvhxvwiu.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\9c85oi2o0h-ub07r2b239.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ypc3u5e3am-fvhpjtyr6v.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\1st520oyv0-b7pk76d08c.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\4192p8exip-fsbi9cje9m.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zhz51vne0s-rzd6atqjts.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\8ukabe1z4j-ee0r1s7dh0.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\7470d655rh-dxx9fxp4il.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\dn01oh2g23-jd9uben2k1.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\gifzn0ksrx-khv3u5hwcm.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\8z72uvg2wd-r4e9w2rdcm.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\8khv4k9zlp-lcd1t2u6c8.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\p4b798h7fi-c2oey78nd0.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\dny7552qte-tdbxkamptv.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\mux60gue6f-j5mq2jizvt.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\n3vvmsz9i6-06098lyss8.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\hro5i25v62-nvvlpmu67g.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\pyklupgpat-s35ty4nyc5.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\2ye6jhq87o-pj5nd1wqec.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ov0s02zobh-46ein0sx1k.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\haqp6ljvt6-v0zj4ognzu.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\e6jywnbmbs-37tfw0ft22.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\rgrm5fumjq-hrwsygsryq.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\isuhhij42c-pk9g2wxc8p.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\8o6jory8hf-ft3s53vfgj.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\5x4nz1nxis-6cfz1n2cew.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\rd6t5326m0-6pdc2jztkx.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\evgxnrllyt-493y06b0oq.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\7cbqdlzuar-iovd86k7lj.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\5ougr9j48p-vr1egmr9el.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\w7ks15m8x3-kbrnm935zg.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\h8sv5a2j7n-jj8uyg4cgr.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\w9urwphqnv-y7v9cxd14o.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\uf5gni34w9-notf2xhcfb.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\l57llz97ox-h1s4sie4z3.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\x2paxus2cp-63fj8s7r0e.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\b4l0un5pzd-0j3bgjxly4.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\6dsr0o34qy-47otxtyo56.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\t0bqxerpql-4v8eqarkd7.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\dkjd5fl6v0-356vix0kms.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\1uozoddj9z-83jwlth58m.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\hseaaesvus-mrlpezrjn3.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\0z61f7m2ve-lzl9nlhx6b.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\vwm0x0wr91-ag7o75518u.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\yx1lk2228h-x0q3zqp4vz.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ni7b3tre2u-0i3buxo5is.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ynk6yxiq7r-o1o13a6vjx.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zsde6gj6gh-ttgo8qnofa.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\wen9v3ct9e-2z0ns9nrw6.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\qbxixjr1cv-muycvpuwrr.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\s1rvjzzjg2-87fc7y1x7t.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\6by1g9f5n3-mlv21k5csn.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets.build.json
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets.development.json
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets\msbuild.build.LibraryManagement.props
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagement.props
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LibraryManagement.props
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets.pack.json
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryM.685EF3B5.Up2Date
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\refint\LibraryManagement.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.pdb
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.genruntimeconfig.cache
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\ref\LibraryManagement.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\scopedcss\Areas\admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\cryddu669j-ngy5ixur78.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\htrknapvt3-qap33kx36m.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\sbpf4uwio4-7qkix5u1f5.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ora21kbinf-uzpy5x0x8d.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Azure.Core.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Azure.Identity.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.ClientModel.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Memory.Data.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\uzgp3wbp3e-duleaerh6c.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\c6dubc0g8i-gbq7xza5n0.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\0tpx2y6bls-di4yybym3x.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\rjarhpingi-zuvuklkj3l.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zzyxbibxoc-qj35fca2th.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\v8hkbe0nec-sgkdqzioi7.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zrauv01q2g-i25ohondo7.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\p9qqxncaz0-p1qvv7mq0n.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ddb3kzho5u-b4176u4l38.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ll53y3mj0n-dosqy3kf6t.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\cxh6q9qdbh-sgabxu717i.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\5aes2t1s1r-hhipitmj7n.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ilmqmoq153-9sw1jawj83.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\bu6c52j9q3-qb0o6k7924.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\9pkzz4377w-q5kms28h6a.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\q4hek8s6xw-2nxz4udjdw.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\vs1ea10l4l-t4tixjzgvc.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\9rjeujf0vm-gntbu4emqy.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\k6xftog6t3-xx25874goo.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\fe1i1v5x3c-z2ki3suiph.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\8q22zl7bia-q7t5e4e2pl.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\45ixsd1dn1-tswi2w73fl.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\vb15nepvje-tswi2w73fl.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\d45x6izpwm-zak0ao8pn8.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\1bbwydsahw-qonixw2ech.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zivrjad7b3-beuiani42m.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\fhnljx8zo5-vmfqw6xnr2.gz
+D:\LearningFile\ASP.NET CORE\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\bz3fwlip70-nr4ro7wk3k.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\appsettings.Development.json
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\appsettings.json
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.staticwebassets.endpoints.json
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.staticwebassets.runtime.json
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.exe
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.deps.json
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.runtimeconfig.json
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\LibraryManagement.pdb
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Azure.Core.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Azure.Identity.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Humanizer.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Common.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.ClientModel.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.CodeDom.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.csproj.AssemblyReference.cache
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.AssemblyInfo.cs
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.RazorAssemblyInfo.cache
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.RazorAssemblyInfo.cs
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\scopedcss\bundle\LibraryManagement.styles.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\scopedcss\projectbundle\LibraryManagement.bundle.scp.css
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\cryddu669j-ngy5ixur78.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\uzgp3wbp3e-duleaerh6c.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\c6dubc0g8i-gbq7xza5n0.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\0tpx2y6bls-di4yybym3x.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zivrjad7b3-beuiani42m.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\htrknapvt3-qap33kx36m.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\d45x6izpwm-zak0ao8pn8.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\rjarhpingi-zuvuklkj3l.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zzyxbibxoc-qj35fca2th.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\v8hkbe0nec-sgkdqzioi7.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zrauv01q2g-i25ohondo7.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\p9qqxncaz0-p1qvv7mq0n.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ddb3kzho5u-b4176u4l38.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\bz3fwlip70-nr4ro7wk3k.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\sbpf4uwio4-7qkix5u1f5.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\6j2bjgr2xp-b9sayid5wm.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\e70ifj3kct-61n19gt1b8.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ll53y3mj0n-dosqy3kf6t.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\cxh6q9qdbh-sgabxu717i.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\5aes2t1s1r-hhipitmj7n.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zxx2lpuf4a-bqjiyaj88i.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\j1dp6y8imy-c2jlpeoesf.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\3vsq811k52-erw9l3u2r3.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\u3y5a5rzcb-aexeepp0ev.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\xwuxafgzlx-d7shbmvgxk.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\w9fku29bsp-ausgxo2sd3.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ls5r8uyzdg-k8d9w2qqmf.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ynj3al3wte-cosvhxvwiu.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\9c85oi2o0h-ub07r2b239.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ypc3u5e3am-fvhpjtyr6v.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\1st520oyv0-b7pk76d08c.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\4192p8exip-fsbi9cje9m.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zhz51vne0s-rzd6atqjts.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\8ukabe1z4j-ee0r1s7dh0.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\7470d655rh-dxx9fxp4il.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\dn01oh2g23-jd9uben2k1.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\gifzn0ksrx-khv3u5hwcm.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\8z72uvg2wd-r4e9w2rdcm.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\8khv4k9zlp-lcd1t2u6c8.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\p4b798h7fi-c2oey78nd0.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\dny7552qte-tdbxkamptv.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\mux60gue6f-j5mq2jizvt.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\n3vvmsz9i6-06098lyss8.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\hro5i25v62-nvvlpmu67g.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\pyklupgpat-s35ty4nyc5.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\2ye6jhq87o-pj5nd1wqec.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ov0s02zobh-46ein0sx1k.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\haqp6ljvt6-v0zj4ognzu.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\e6jywnbmbs-37tfw0ft22.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\rgrm5fumjq-hrwsygsryq.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\isuhhij42c-pk9g2wxc8p.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\8o6jory8hf-ft3s53vfgj.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\5x4nz1nxis-6cfz1n2cew.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\rd6t5326m0-6pdc2jztkx.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\evgxnrllyt-493y06b0oq.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\7cbqdlzuar-iovd86k7lj.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\5ougr9j48p-vr1egmr9el.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\w7ks15m8x3-kbrnm935zg.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\h8sv5a2j7n-jj8uyg4cgr.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\w9urwphqnv-y7v9cxd14o.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\uf5gni34w9-notf2xhcfb.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\l57llz97ox-h1s4sie4z3.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\x2paxus2cp-63fj8s7r0e.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\b4l0un5pzd-0j3bgjxly4.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\6dsr0o34qy-47otxtyo56.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\t0bqxerpql-4v8eqarkd7.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\dkjd5fl6v0-356vix0kms.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\1uozoddj9z-83jwlth58m.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\hseaaesvus-mrlpezrjn3.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\0z61f7m2ve-lzl9nlhx6b.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\vwm0x0wr91-ag7o75518u.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\yx1lk2228h-x0q3zqp4vz.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ni7b3tre2u-0i3buxo5is.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ynk6yxiq7r-o1o13a6vjx.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\zsde6gj6gh-ttgo8qnofa.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\wen9v3ct9e-2z0ns9nrw6.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\qbxixjr1cv-muycvpuwrr.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\s1rvjzzjg2-87fc7y1x7t.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\6by1g9f5n3-mlv21k5csn.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ilmqmoq153-9sw1jawj83.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\ora21kbinf-uzpy5x0x8d.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\1bbwydsahw-qonixw2ech.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\bu6c52j9q3-qb0o6k7924.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\9pkzz4377w-q5kms28h6a.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\q4hek8s6xw-2nxz4udjdw.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\vs1ea10l4l-t4tixjzgvc.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\9rjeujf0vm-gntbu4emqy.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\k6xftog6t3-xx25874goo.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\fe1i1v5x3c-z2ki3suiph.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\8q22zl7bia-q7t5e4e2pl.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\fhnljx8zo5-vmfqw6xnr2.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\45ixsd1dn1-tswi2w73fl.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\compressed\vb15nepvje-tswi2w73fl.gz
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets.build.json
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets.development.json
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets\msbuild.build.LibraryManagement.props
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagement.props
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LibraryManagement.props
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryM.685EF3B5.Up2Date
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\refint\LibraryManagement.dll
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.pdb
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\LibraryManagement.genruntimeconfig.cache
+D:\Learning\ASP.Net nang cao\LibraryManagement\LibraryManagement\obj\Debug\net9.0\ref\LibraryManagement.dll
