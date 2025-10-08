@@ -20,7 +20,7 @@ namespace LibraryManagement.Areas.Admin.Controllers
 			_context = context;
 		}
 
-		// 📌 Hiển thị danh sách sách và form thêm/sửa
+		// Hiển thị danh sách sách và form thêm/sửa
 		[HttpGet]
 		[Route("admin/book/add", Name = "AdminAddBook")]
 		public async Task<IActionResult> AddBook(int? id)
@@ -108,7 +108,7 @@ namespace LibraryManagement.Areas.Admin.Controllers
 			return View(new BookViewModel { Books = books, Book = book });
 		}
 
-		// 📌 Xóa sách bằng AJAX
+		//  Xóa sách 
 		[HttpPost]
 		[Route("admin/book/delete")]
 		public async Task<IActionResult> Delete(int id)
